@@ -2,7 +2,7 @@
 
 
 
-
+@yield('menu')
 <!-- inicio menu para navegador  -->
     <!-- Main Menu area start-->
     <div class="main-menu-area mg-tb-40">
